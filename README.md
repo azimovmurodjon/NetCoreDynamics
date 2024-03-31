@@ -1,10 +1,10 @@
-# NetCore Dynamics Repository
+# innovancio Repository
 
-Welcome to the NetCore Dynamics repository! Here you'll find all the resources, documentation, and code related to our dynamic software development solutions.
+Welcome to the innovancio repository! Here you'll find all the resources, documentation, and code related to our dynamic software development solutions.
 
 ## About Us
 
-At NetCore Dynamics, we're passionate about pushing the boundaries of software development. Our mission is to empower businesses with cutting-edge solutions that drive growth and innovation.
+At innovancio, we're passionate about pushing the boundaries of software development. Our mission is to empower businesses with cutting-edge solutions that drive growth and innovation.
 
 ## Repository Contents
 
@@ -14,7 +14,7 @@ At NetCore Dynamics, we're passionate about pushing the boundaries of software d
 
 ## Getting Started
 
-To get started with NetCore Dynamics software solutions, simply clone this repository to your local machine and follow the setup instructions provided in the documentation.
+To get started with innovancio software solutions, simply clone this repository to your local machine and follow the setup instructions provided in the documentation.
 
 ## Feedback and Support
 
@@ -22,9 +22,9 @@ Have questions or need assistance? Feel free to reach out to us through our [web
 
 ## Stay Connected
 
-Stay up-to-date with the latest news, updates, and announcements from NetCore Dynamics by following us on [Twitter](https://twitter.com/NetCoreDynamics) and [LinkedIn](https://www.linkedin.com/company/netcore-dynamics). Join the conversation using #NetCoreDynamics.
+Stay up-to-date with the latest news, updates, and announcements from innovancio by following us on [Twitter](https://twitter.com/NetCoreDynamics) and [LinkedIn](https://www.linkedin.com/company/netcore-dynamics). Join the conversation using #NetCoreDynamics.
 
-Thank you for choosing NetCore Dynamics for your software development needs. Let's build the future together! 🚀
+Thank you for choosing innovancio for your software development needs. Let's build the future together! 🚀
 
 
 
