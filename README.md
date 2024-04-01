@@ -18,11 +18,11 @@ To get started with innovancio software solutions, simply clone this repository 
 
 ## Feedback and Support
 
-Have questions or need assistance? Feel free to reach out to us through our [website](https://www.ncdynamix.com) or open an issue here on GitHub. We're here to help!
+Have questions or need assistance? Feel free to reach out to us through our [website](https://innovancio.com/) or open an issue here on GitHub. We're here to help!
 
 ## Stay Connected
 
-Stay up-to-date with the latest news, updates, and announcements from innovancio by following us on [Twitter](https://twitter.com/NetCoreDynamics) and [LinkedIn](https://www.linkedin.com/company/netcore-dynamics). Join the conversation using #NetCoreDynamics.
+Stay up-to-date with the latest news, updates, and announcements from innovancio by following us on [Twitter](https://twitter.com/innovancio) and [LinkedIn](https://www.linkedin.com/company/innovancio). Join the conversation using #NetCoreDynamics.
 
 Thank you for choosing innovancio for your software development needs. Let's build the future together! 🚀
 
